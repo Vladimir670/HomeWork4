@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\HomeWork4\Ex25\bin\Debug\net6.0\Ex25.exe
+C:\Users\Никита\Desktop\HomeWork4\Ex25\bin\Debug\net6.0\Ex25.deps.json
+C:\Users\Никита\Desktop\HomeWork4\Ex25\bin\Debug\net6.0\Ex25.runtimeconfig.json
+C:\Users\Никита\Desktop\HomeWork4\Ex25\bin\Debug\net6.0\Ex25.dll
+C:\Users\Никита\Desktop\HomeWork4\Ex25\bin\Debug\net6.0\Ex25.pdb
+C:\Users\Никита\Desktop\HomeWork4\Ex25\obj\Debug\net6.0\Ex25.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\HomeWork4\Ex25\obj\Debug\net6.0\Ex25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\HomeWork4\Ex25\obj\Debug\net6.0\Ex25.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\HomeWork4\Ex25\obj\Debug\net6.0\Ex25.AssemblyInfo.cs
+C:\Users\Никита\Desktop\HomeWork4\Ex25\obj\Debug\net6.0\Ex25.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\HomeWork4\Ex25\obj\Debug\net6.0\Ex25.dll
+C:\Users\Никита\Desktop\HomeWork4\Ex25\obj\Debug\net6.0\refint\Ex25.dll
+C:\Users\Никита\Desktop\HomeWork4\Ex25\obj\Debug\net6.0\Ex25.pdb
+C:\Users\Никита\Desktop\HomeWork4\Ex25\obj\Debug\net6.0\Ex25.genruntimeconfig.cache
+C:\Users\Никита\Desktop\HomeWork4\Ex25\obj\Debug\net6.0\ref\Ex25.dll
